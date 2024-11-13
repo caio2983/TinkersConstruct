@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tconstruct:expanded",
+  "text": [
+    {
+      "text": "Maior é sempre melhor, certo?"
+    }
+  ],
+  "effects": [
+    "Aumenta a largura e altura da mineração",
+    "A faixa é diferente para cada ferramenta",
+    "Vários níveis, cada nível aumenta a largura e altura em um",
+    "Requer 1 slot de habilidade por nível"
+  ]
+}
